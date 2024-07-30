@@ -8,7 +8,7 @@ function calculate() {
   const expression = display.value;
 
   if (expression.match(/[0-9]+[+\-*/][0-9]+/)) {
-    display.value = 'Adit♡Awi by:iwal';
+    display.value = 'Adit♡Awi LDR';
   } else {
     try {
       display.value = eval(expression);
